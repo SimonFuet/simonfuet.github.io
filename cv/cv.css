@@ -1,0 +1,171 @@
+
+#head {
+    border-bottom: 5px solid #1f497d;
+}
+
+header {
+    color: white;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+
+header hr {
+    border-top: 3px solid #1f497d;
+    border-radius: 1px;
+    margin-bottom: 2px;
+    margin-top: 12px;
+}
+
+header p {
+    text-align: justify;
+    margin-bottom: 0px;
+    font-size: 0.9em;
+}
+
+.section-separator {
+    margin: 0px;
+    padding: 0px;
+    border-top: 3px solid #e7e7ea;
+}
+
+.bkg-lightblue {
+    background-color: #5898b8;
+}
+
+#photo-p {
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+    width: 80%;
+}
+
+#photo-p img {
+    width: 80%;
+    border: solid;
+    border-color: #1f497d;
+}
+
+.main-left{
+    background-color: #e7e7ea;
+}
+
+.job-date {
+    margin-top: 8px;
+    font-size: 0.9em;
+    font-weight: bold;
+    color: #88888a;
+    text-align: center;
+}
+
+#div-content hr {
+    border-bottom: 5px solid #e7e7ea;
+    margin: 0px -15px 0px -15px;
+}
+
+#section-title {
+    color: #7b7b7d;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.section-title-margin {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-transform : uppercase;
+}
+
+.section-entry-content {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.section-entry-content p {
+    color: #8b8b8e;
+    margin-left: 10px;
+}
+
+.section-entry-content ul {
+    color: #8b8b8e;
+    list-style-type: none;
+    padding-left: 10px;
+}
+
+.section-entry-content ul li {
+    margin-left: 0px;
+}
+
+.section-entry-content * {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.job-title {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.job-location {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.job-city {
+    font-weight: normal;
+}
+
+.job-descr {
+    font-size: 0.9em;
+}
+
+.keywords {
+    font-size: 0.8em;
+    font-style: italic;
+}
+
+.img-p {
+    margin: auto;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.left-icon-img {
+    max-width: 40%;
+}
+
+aside * li {
+    color: white;;
+    font-size: 1em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+aside * ul {
+    list-style-type: none;
+    padding-left: 5px;
+}
+
+#right h5 {
+    background-color: white;
+    margin-top: 70px;
+    margin-bottom: 30px;
+    margin-left: -15px;
+    margin-right: -15px;
+    padding-left: 10px;
+}
+
+#right img {
+    max-width: 20%;
+    margin-top: -15px;
+    margin-bottom: -10px;
+}
+
+.progress {
+    height: 5px;
+    margin-right: 5px;
+}
+
+.progress-bar {
+    height: 5px;
+    margin-right: 5px;
+    background-color: #1f497d;
+}
